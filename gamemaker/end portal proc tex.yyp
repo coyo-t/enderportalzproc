@@ -1,0 +1,51 @@
+{
+  "$GMProject":"",
+  "%Name":"end portal proc tex",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"ext","folderPath":"folders/ext.yy","name":"ext","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"GML_End_POrtal.dll","CopyToMask":-1,"filePath":"datafiles","name":"GML_End_POrtal.dll","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"GML_End_POrtal.exp","CopyToMask":-1,"filePath":"datafiles","name":"GML_End_POrtal.exp","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"GML_End_POrtal.lib","CopyToMask":-1,"filePath":"datafiles","name":"GML_End_POrtal.lib","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"GML_End_POrtal.pdb","CopyToMask":-1,"filePath":"datafiles","name":"GML_End_POrtal.pdb","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.2.0.132",
+  },
+  "name":"end portal proc tex",
+  "resources":[
+    {"id":{"name":"ext_end_portal_native","path":"extensions/ext_end_portal_native/ext_end_portal_native.yy",},},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"shader_displ2","path":"shaders/shader_displ2/shader_displ2.yy",},},
+    {"id":{"name":"shader_display","path":"shaders/shader_display/shader_display.yy",},},
+    {"id":{"name":"shader_display3","path":"shaders/shader_display3/shader_display3.yy",},},
+    {"id":{"name":"spr_end_portal_frame_side","path":"sprites/spr_end_portal_frame_side/spr_end_portal_frame_side.yy",},},
+    {"id":{"name":"spr_end_portal_frame_top","path":"sprites/spr_end_portal_frame_top/spr_end_portal_frame_top.yy",},},
+    {"id":{"name":"spr_end_portal_ramp","path":"sprites/spr_end_portal_ramp/spr_end_portal_ramp.yy",},},
+    {"id":{"name":"spr_end_portal","path":"sprites/spr_end_portal/spr_end_portal.yy",},},
+    {"id":{"name":"spr_end_portal8","path":"sprites/spr_end_portal8/spr_end_portal8.yy",},},
+    {"id":{"name":"spr_templ","path":"sprites/spr_templ/spr_templ.yy",},},
+    {"id":{"name":"spr_templ2","path":"sprites/spr_templ2/spr_templ2.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

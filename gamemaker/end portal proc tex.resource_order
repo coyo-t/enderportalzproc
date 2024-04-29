@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings":[
+    {"name":"ext","order":28,"path":"folders/ext.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Object1","order":16,"path":"objects/Object1/Object1.yy",},
+    {"name":"Room1","order":15,"path":"rooms/Room1/Room1.yy",},
+    {"name":"shader_displ2","order":22,"path":"shaders/shader_displ2/shader_displ2.yy",},
+    {"name":"shader_display","order":17,"path":"shaders/shader_display/shader_display.yy",},
+    {"name":"shader_display3","order":27,"path":"shaders/shader_display3/shader_display3.yy",},
+    {"name":"spr_end_portal_frame_side","order":24,"path":"sprites/spr_end_portal_frame_side/spr_end_portal_frame_side.yy",},
+    {"name":"spr_end_portal_frame_top","order":23,"path":"sprites/spr_end_portal_frame_top/spr_end_portal_frame_top.yy",},
+    {"name":"spr_end_portal_ramp","order":21,"path":"sprites/spr_end_portal_ramp/spr_end_portal_ramp.yy",},
+    {"name":"spr_end_portal","order":25,"path":"sprites/spr_end_portal/spr_end_portal.yy",},
+    {"name":"spr_end_portal8","order":26,"path":"sprites/spr_end_portal8/spr_end_portal8.yy",},
+    {"name":"spr_templ","order":18,"path":"sprites/spr_templ/spr_templ.yy",},
+    {"name":"spr_templ2","order":19,"path":"sprites/spr_templ2/spr_templ2.yy",},
+  ],
+}
